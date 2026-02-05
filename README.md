@@ -30,6 +30,10 @@ npm start
 
 The application runs locally and exposes endpoints for mining blocks, viewing the blockchain, and submitting transactions.
 
+## Local Execution
+
+Successfully ran the blockchain locally and verified block mining and chain growth.
+
 ## Purpose of the Project
 
 This project was developed to gain practical understanding of blockchain architecture, distributed systems, and secure transaction design.
